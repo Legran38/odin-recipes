@@ -1,0 +1,45 @@
+body {
+    font-family: Verdana, sans-serif, serif;
+    background-color: #eed3b1b0;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+div {
+    list-style-position: inside;
+    border: 1px solid black;
+}
+
+a {
+    font-size: 30px;
+    text-decoration: none; 
+}
+
+a:hover {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+.container {
+    width: 500px;
+    margin: 100px auto;
+    padding: 10px;
+    background-color: rgba(83, 168, 109, 0.397);
+}
+
+.title {
+    color: black;
+}
+
+.list  {
+    color: black;
+    padding: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+    text-align: left;
+}
